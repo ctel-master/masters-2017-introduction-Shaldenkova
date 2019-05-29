@@ -1,2 +1,2 @@
 Cсылка на Moodle Сloud:
-shaldenkova.moodlecloud.com
+https://shaldenkova.moodlecloud.com
